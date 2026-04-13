@@ -21,3 +21,12 @@ img.icon {
   color: white;
   padding: 4px;
 }
+
+p {
+    margin-bottom: 0;
+    text-indent: 1em;
+}
+
+h3, h4 {
+    margin-bottom: 0;
+}
